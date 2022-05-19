@@ -49,7 +49,7 @@ The search bar can filter through All, Catergory, Name , and Decription while th
 
 ## Product Overview
 \
-![](/gifs/image.gif)
+![](/gifs/Image.gif)
 
 This section Primary handles the image portion of the application and selection of the styles with option to add the item size and Quantity to the shopping cart.
 
@@ -64,7 +64,7 @@ The related Product is a 2 components carousel, one showing any product thats re
 
 ## Ratings And Reviews
 \
-![](/gifs/rating-review.gif)
+![](/gifs/raiting-review.gif)
 
 The Ratings and Review components handles user feed back by showing other users comments and there ratings on the product base on other criteria such as fit, length, comfort, and quality . The user can also report comments or indicate that it was helpful while also being able to add there own.
 

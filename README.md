@@ -66,12 +66,15 @@ The Related Product is a 2 components carousel, one showing any product thats re
 
 The Ratings and Review components handles user feed back by showing other users comments and there ratings on the product base on other criteria such as fit, length, comfort, and quality . The user can also report comments or indicate that it was helpful while also being able to add there own.
 
+* * *
+
 ## Statistic
 \
 ![](/gifs/statistic.gif)
 
 The Statistic components gives data on which component or buttons users clicked on and the number it has been clicked to help improve future update for the application.
 
+* * *
 
 ## Technologies
 - React
@@ -80,6 +83,8 @@ The Statistic components gives data on which component or buttons users clicked 
 - Tailwind
 - Axios
 - AWS EC2
+
+* * *
 
 ## Usage 
 
@@ -93,6 +98,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+* * *
 
 ## Collaborators
 

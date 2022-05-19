@@ -20,8 +20,8 @@
 ## Description
 \
 \
-A modern, responsive, retail E-commerce Single Page Application designed from the ground up to be user friendly and accessible.
-The page consists of 4 main components, including the **Product Overview** section, **Related Items** section, and **Ratings and Reviews**.
+A modern, responsive, retail e-commerce Single Page Application designed from the ground up to be user-friendly and accessible.
+The page consists of 4 main components, including the **Navigation Bar**,**Product Overview**, **Related Items**, and **Ratings and Reviews** section.
 
 During this project, I collaborated with a team of 3 other engineers and was personally responsible for designing the **Product Overview**, **Navigation Bar**, **Shopping Cart**, and **Sites Statistic** section.
 
@@ -33,7 +33,6 @@ During this project, I collaborated with a team of 3 other engineers and was per
 * [Ratings And Reviews](#ratings-and-reviews)
 * [Statistic](#statistic)
 
-
 * * *
 
 ## Navigation
@@ -43,7 +42,7 @@ During this project, I collaborated with a team of 3 other engineers and was per
 ![](/gifs/cart-selection.gif)
 
 The navigation bar handles the Search and the Shopping cart components.
-The search bar can filter through All, Catergory, Name , and Decription while the sorting after the search can sort by price. The shopping cart component will updated the total price of the item inside while also being able to remove or update quantities of the item.
+The search bar can filter through All, Category, Name, and Description while the sorting after the search can sort by price. The shopping cart component will update the total price of the item inside while also being able to remove or update quantities of the item.
 
 * * *
 
@@ -51,14 +50,14 @@ The search bar can filter through All, Catergory, Name , and Decription while th
 \
 ![](/gifs/Image.gif)
 
-This section Primary handles the image portion of the application and selection of the styles with option to add the item size and Quantity to the shopping cart.
+This section Primary handles the image portion of the application and selection of the styles with the option to add the item size and quantity to the shopping cart.
 
 * * *
 ## Related Products
 \
 ![](/gifs/related-products.gif)
 
-The related Product is a 2 components carousel, one showing any product thats related to the selected product and the second is a favorite list that users can use to add or removed a product.
+The Related Product is a 2 components carousel, one showing any product thats related to the selected product and the second is a favorite list that users can use to add or removed a product.
 
 * * *
 

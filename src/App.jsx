@@ -94,7 +94,7 @@ function App() {
         <Header cart={{handleToggleCart, cartVisibility}} toggleBlurBG={toggleBlurBG}/>
         <Overview handleToggleCart={handleToggleCart}/>
         <RelatedProducts/>
-        <QAndA/>
+        {/* <QAndA/> */}
         <RatingsAndReviews />
         <SiteStatistic/>
     </div>

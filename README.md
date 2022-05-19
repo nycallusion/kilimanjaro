@@ -4,6 +4,4 @@
 
 * * *
 
-<p align="center">
-  <img width="200" src="./gif/site.gif" alt="Material Bread logo">
-</p>
+![](/gifs/site.gif)

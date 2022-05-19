@@ -105,6 +105,5 @@ You may also see any lint errors in the console.
 
 | Component           | Collaborator                                                  |
 |---------------------|---------------------------------------------------------------|
-| Product Overview    | [nycallusion](http://www.github.com/nycallusion/repositories) |
-| Related Products    | [cihad84](http://www.github.com/cihad84/repositories)         |
-| Questions + Answers | [actuaryDev](http://www.github.com/actuaryDev/repositories)   |
+| Related Products    | [Cihad Akkaya](http://www.github.com/cihad84/)         |
+| Ratings and Reviews | [Lauren Anderson](https://github.com/laurendayle/)   |

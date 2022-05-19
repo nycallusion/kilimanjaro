@@ -37,8 +37,7 @@ During this project, I collaborated with a team of 3 other engineers and was per
 
 ## Navigation
 \
-![](/gifs/search.gif)
-
+![](/gifs/Search.gif)
 ![](/gifs/cart-selection.gif)
 
 The navigation bar handles the Search and the Shopping cart components.
